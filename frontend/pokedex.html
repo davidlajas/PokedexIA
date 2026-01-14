@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>RotomDex Pro XL - Doble Pantalla</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="pokedex-wrapper">
+        <div class="pokedex-body left-body">
+            <div class="search-container">
+                <input type="text" id="pokemonInput" placeholder="Nombre del Pokémon..." onkeypress="if(event.key === 'Enter') buscarPokemon()">
+            </div>
+            
+            <div class="screen screen-left">
+                <h2 id="pokemonName" style="margin-top: 0; color: #2d2d2d;">BIENVENIDO</h2>
+                <img src="" id="pokemonSprite" style="display:none;">
+                
+                <div id="mainData" class="info-container">
+                    <p>Zzt... Introduce el nombre para iniciar el análisis biométrico.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="hinge"></div>
+
+        <div class="pokedex-body right-body">
+            <div class="screen screen-stats">
+                <div id="statsDisplay" class="info-container">
+                    <p style="text-align: center;">Esperando datos de combate...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
