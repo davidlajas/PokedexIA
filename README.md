@@ -105,30 +105,9 @@ Interactúa con la API desde el frontend para mostrar información detallada.
 ✨ Tests automatizados
 ✨ Mejora de UI/UX
 
-🤝 Contribuciones
-Las contribuciones son bienvenidas 🙌.
-Puedes:
-
-Abrir issues con ideas o bugs
-
-Enviar pull requests
-
-Sugerir nuevas features
-
-📝 Licencia
-Este proyecto no tiene licencia especificada actualmente.
-Si decides agregar una, puedes incluir una sección como esta con tu licencia preferida.
 
 📌 Autor
 davidlajas (creador del proyecto)
 
 ¡Gracias por revisar PokedexIA! 🐾
 Explora Pokémon con estilo 🚀
-
-yaml
-Copiar código
-
----
-
-Si quieres también puedo generar **badges (estrellas, issues, build status)** o una versión **traducida al español/inglés** adaptada a tu público objetivo 👍.
-::contentReference[oaicite:3]{index=3}
