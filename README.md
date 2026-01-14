@@ -21,13 +21,8 @@ PokedexIA/
 ├── Dockerfile # Para construir y ejecutar con Docker
 ├── README.md
 ├── esquema.sql # Esquema de la base de datos SQLite
-├── pokedex.db # Base de datos con datos de Pokémon
 ├── requirements.txt # Dependencias de Python
 
-yaml
-Copiar código
-
----
 
 ## 🧠 Tecnologías utilizadas
 
@@ -43,7 +38,6 @@ Copiar código
 
 ### 1️⃣ Clonar el repositorio
 
-```bash
 git clone https://github.com/davidlajas/PokedexIA.git
 cd PokedexIA
 2️⃣ Crear entorno virtual e instalar dependencias
