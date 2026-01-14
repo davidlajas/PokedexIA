@@ -30,9 +30,7 @@ PokedexIA/
 - 🗄️ **SQLite** como base de datos (`pokedex.db`)
 - 🌐 **HTML, CSS, JavaScript** para el frontend
 - 🐳 **Docker** para contenerizar la aplicación
-- 📦 Librerías listadas en `requirements.txt` :contentReference[oaicite:1]{index=1}
-
----
+- 📦 Librerías listadas en `requirements.txt` 
 
 ## 💻 Instalación y ejecución local
 
